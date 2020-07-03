@@ -1,0 +1,40 @@
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\bin\Debug\xephinh1.exe.config
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\bin\Debug\xephinh1.exe
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\bin\Debug\xephinh1.pdb
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\obj\Debug\xephinh1.csprojAssemblyReference.cache
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\obj\Debug\xephinh1.Properties.Resources.resources
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\obj\Debug\xephinh1.csproj.GenerateResource.cache
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\obj\Debug\xephinh1.csproj.CoreCompileInputs.cache
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\obj\Debug\xephinh1.exe
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\obj\Debug\xephinh1.pdb
+C:\Users\jokerljnkjc\source\repos\xephinh1\xephinh1\obj\Debug\xephinh1.Form1.resources
+C:\Users\ASUS\Downloads\xephinh\xephinh1\obj\Debug\xephinh1.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\xephinh\xephinh1\obj\Debug\xephinh1.Form1.resources
+C:\Users\ASUS\Downloads\xephinh\xephinh1\obj\Debug\xephinh1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\xephinh\xephinh1\obj\Debug\xephinh1.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\xephinh\xephinh1\obj\Debug\xephinh1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\xephinh\xephinh1\obj\Debug\xephinh1.exe
+C:\Users\ASUS\Downloads\xephinh\xephinh1\obj\Debug\xephinh1.pdb
+C:\Users\ASUS\Downloads\xephinh\xephinh1\bin\Debug\xephinh1.exe.config
+C:\Users\ASUS\Downloads\xephinh\xephinh1\bin\Debug\xephinh1.exe
+C:\Users\ASUS\Downloads\xephinh\xephinh1\bin\Debug\xephinh1.pdb
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\obj\Debug\xephinh1.csprojAssemblyReference.cache
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\obj\Debug\xephinh1.Form1.resources
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\obj\Debug\xephinh1.Properties.Resources.resources
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\obj\Debug\xephinh1.csproj.GenerateResource.cache
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\obj\Debug\xephinh1.csproj.CoreCompileInputs.cache
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\obj\Debug\xephinh1.exe
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\obj\Debug\xephinh1.pdb
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\bin\Debug\xephinh1.exe.config
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\bin\Debug\xephinh1.exe
+C:\Users\jokerljnkjc\Downloads\doan\doan\xephinh1\bin\Debug\xephinh1.pdb
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\bin\Debug\xephinh1.exe.config
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\bin\Debug\xephinh1.exe
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\bin\Debug\xephinh1.pdb
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\obj\Debug\xephinh1.csprojAssemblyReference.cache
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\obj\Debug\xephinh1.Form1.resources
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\obj\Debug\xephinh1.Properties.Resources.resources
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\obj\Debug\xephinh1.csproj.GenerateResource.cache
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\obj\Debug\xephinh1.csproj.CoreCompileInputs.cache
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\obj\Debug\xephinh1.exe
+C:\Users\jokerljnkjc\Desktop\HoSiTuan_17119111_DoAnGiuaKi\Source code\doan\xephinh1\obj\Debug\xephinh1.pdb
